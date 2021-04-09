@@ -49,4 +49,4 @@ I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for
 Checkmate was written not for commercial purposes and is published as open source.
 Therefore I will not take any responsibility for using this app.
 
-(c) by N.B., Munich 2021
+Copyright by N.B., Munich 2021
