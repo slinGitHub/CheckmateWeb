@@ -39,13 +39,14 @@ Download the latest Checkmate version here:
 ### Acknowledgement
 I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
 
-### Disclaimer
-Checkmate was written not for commercial purposes and is published as open source.
-Therefore I will not take any responsibility for using this app.
-
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
 
 **Paypal**  
 [Donate 5 $](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
 
+### Disclaimer
+Checkmate was written not for commercial purposes and is published as open source.
+Therefore I will not take any responsibility for using this app.
+
+(c) by N.B., Munich 2021
