@@ -5,7 +5,7 @@ Checkmat was written to visualize
 - The estimated HbA1c level over a 30 day period (see detailed description below)
 - The "in Range" over a 30 day period
 - The glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
-- your GMI and In-Range results for today with a small notification 
+- Your GMI and In-Range results for today with a small notification 
 
 ![grafik](https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png)
 
