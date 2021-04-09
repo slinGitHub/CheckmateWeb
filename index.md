@@ -14,7 +14,7 @@ This project is published as open source and free for anyone to copy/modify.
 - Remind you with a small Notification at a configurable time every day about your GMI and In-Range results for this day.
 
 ### Checkmate GUI Overview
-<img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="400">
+<img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="300">
 
 ### Checkmate Code Repository
 The Checkmate source code can also be compiled also by yourself with android studio.
