@@ -7,9 +7,11 @@ Checkmat was written to visualize
 - the glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
 - Notification can be fired at a manually configurable time to show you your GMI and In-Range results for today.
 
+![grafik](https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png)
+
 ### Used Data Sources
 Checkmate is using the Nightscout glucose data API to receive the glucose data and visualize the up- and downs of your current diabetic treatment status.
-This programm is not replacing any functionality of XDrip which can be downloaded here: 
+This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
 
 
 ### Download APK
