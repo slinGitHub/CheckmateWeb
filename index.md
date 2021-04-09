@@ -12,7 +12,7 @@ Checkmate was written to give you a fast overview of your current diabetic treat
 - Remind you with a small Notification at a configurable time every day about your GMI and In-Range results for this day.
 
 ### Checkmate GUI Overview
-![grafik](https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png)
+<img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="200">
 
 ### Used Data Sources
 
