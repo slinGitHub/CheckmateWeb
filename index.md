@@ -3,6 +3,8 @@
 ## Welcome to the Checkmate Homepage
 Checkmate was written to give you a fast overview of your current diabetic treatment status (based on your Nightscout cloud data).
 
+This project is published as open source and free for anyone to copy/modify.
+
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
 - Visualize your daily "in Range" in percent (in range borders are configurable)
@@ -31,8 +33,13 @@ This programm is not replacing any functionality of XDrip which can be downloade
 ### Download APK
 Download the latest Checkmate Version here: [20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
 
+### Acknowledgement
+I want to thank the nightscout project, jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercial available software.
+
 ### Disclaimer
-Checkmate was written not for commercial purposes and should be available for free.
-Therefore I will not take any responsibility for using this app and bugs.
+Checkmate was written not for commercial purposes and is published as open source.
+Therefore I will not take any responsibility for using this app.
+
+
 
 
