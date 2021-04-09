@@ -29,7 +29,9 @@ I use the great tool XDrip with the Dexcom G6 to upload glucose data from my sma
 This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
 
 ### Download APK
-Download the latest Checkmate Version here: [20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
+Download the latest Checkmate Version here: 
+
+- [20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
 
 ### Acknowledgement
 I want to thank the nightscout project, jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercial available software.
