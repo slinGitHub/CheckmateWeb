@@ -21,10 +21,10 @@ The Checkmate source code can also be compiled also by yourself with android stu
 
 ### Used Data Sources
 
-**[Nightscout Project](http://www.nightscout.info)**
+**[Nightscout Project](http://www.nightscout.info)**  
 Checkmate is using the Nightscout glucose data API to receive your raw glucose data and calculate and visualize the up- and downs of your current diabetic treatment status. Therefore a nightscout database is mandatory to run Checkmate. Follow the guide here to set-up a nightscout database [https://nightscout.github.io/](https://nightscout.github.io/).
 
-**[XDrip+](https://jamorham.github.io)**
+**[XDrip+](https://jamorham.github.io)**  
 I use the great tool XDrip with the Dexcom G6 to upload glucose data from my smartphone to the nightscout cloud.
 This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
 
