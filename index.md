@@ -1,5 +1,5 @@
 ## Welcome to the Checkmate Homepage
-Checkmat was written to give you a fast overview of your current diabetic treatment status.
+Checkmat was written to give you a fast overview of your current diabetic treatment status (based on your nightscout cloud data).
 
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
