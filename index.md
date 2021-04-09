@@ -3,21 +3,22 @@
 ## Welcome to the Checkmate Homepage
 Checkmate was written to give you a fast overview of your current diabetic treatment status (Based on your Nightscout cloud data).
 
-This project is published as open source and free for anyone to copy/modify.
+This project is published as open source.
 
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
 - Visualize your daily "in Range" in percent (In range borders are configurable)
 - Visualize the estimated HbA1c level over a 30 day period
 - Visualize the "in Range" over a 30 day period
-- Visualize the glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
-- Remind you with a small notification at a configurable time every day about your GMI and In-Range results for this day.
+- Visualize the glucose profile over a day for an easy understanding of the GMI and In-Range values
+- A notification informs you every day about your GMI and In-Range results
 
 ### Checkmate GUI Overview
 <img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="300">
 
 ### Checkmate Code Repository
-The Checkmate source code can also be compiled also by yourself with android studio.
+The Checkmate source code can be reviewed and compiled from:
+[Link to Checkmate Source]()
 
 ### Used Data Sources
 
