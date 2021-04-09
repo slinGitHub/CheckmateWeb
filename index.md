@@ -11,7 +11,7 @@ This project is published as open source and free for anyone to copy/modify.
 - Visualize the estimated HbA1c level over a 30 day period
 - Visualize the "in Range" over a 30 day period
 - Visualize the glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
-- Remind you with a small Notification at a configurable time every day about your GMI and In-Range results for this day.
+- Remind you with a small notification at a configurable time every day about your GMI and In-Range results for this day.
 
 ### Checkmate GUI Overview
 <img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="300">
@@ -29,7 +29,7 @@ I use the great tool XDrip with the Dexcom G6 to upload glucose data from my sma
 This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
 
 ### Download APK
-Download the latest Checkmate Version here: 
+Download the latest Checkmate version here: 
 
 - [20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
 
