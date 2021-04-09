@@ -1,11 +1,13 @@
 ## Welcome to the Checkmate Homepage
-Checkmat was written to visualize
-- The daily GMI (Glucose Management Indicator) or average blood sugar level
-- Your daily "in Range" in percent (in range borders are configurable)
-- The estimated HbA1c level over a 30 day period (see detailed description below)
-- The "in Range" over a 30 day period
-- The glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
-- Your GMI and In-Range results for today with a small notification 
+Checkmat was written to give you a fast overview of your current diabetic treatment status.
+
+### Checkmate Features
+- Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
+- Visualize your daily "in Range" in percent (in range borders are configurable)
+- Visualize the estimated HbA1c level over a 30 day period (see detailed description below)
+- Visualize the "in Range" over a 30 day period
+- Visualize the glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
+- Remind you with a small Notification at a configurable time every day about your GMI and In-Range results for this day.
 
 ![grafik](https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png)
 
