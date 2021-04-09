@@ -1,10 +1,22 @@
-## Checkmate Homepage
+## Welcome to the Checkmate Homepage
+Checkmat was written to visualize
+- the daily GMI (Glucose Management Indicator) or average blood sugar level
+- your daily "in Range" in percent (in range borders are configurable)
+- the estimated HbA1c level over a 30 day period (see detailed description below)
+- the "in Range" over a 30 day period
+- the glucose profile over a day for an easy understanding of the resulting GMI and In-Range result
+- Notification can be fired at a manually configurable time to show you your GMI and In-Range results for today.
 
-Download latest Checkmate Version [CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
+### Used Data Sources
+Checkmate is using the Nightscout glucose data API to receive the glucose data and visualize the up- and downs of your current diabetic treatment status.
+This programm is not replacing any functionality of XDrip which can be downloaded here: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Download APK
+Download the latest Checkmate Version [CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
+
+
+### Shor
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
