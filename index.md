@@ -17,7 +17,7 @@ This programm is not replacing any functionality of XDrip which can be downloade
 
 
 ### Download APK
-Download the latest Checkmate Version here: [CheckmateV01.apk(2021/04/09)](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
+Download the latest Checkmate Version here: [20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
 
 
 ### Shor
