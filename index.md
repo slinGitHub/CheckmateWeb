@@ -1,4 +1,4 @@
-![Owl_Green](https://user-images.githubusercontent.com/53019596/114160717-84758280-9927-11eb-82a6-4732e69ea1ae.png){ width=50\% }
+<img src="https://user-images.githubusercontent.com/53019596/114160717-84758280-9927-11eb-82a6-4732e69ea1ae.png" width="100" height="100">
 
 ## Welcome to the Checkmate Homepage
 Checkmat was written to give you a fast overview of your current diabetic treatment status (based on your nightscout cloud data).
