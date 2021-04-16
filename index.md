@@ -15,7 +15,7 @@ This project is published as open source.
 - A notification informs you every day about your GMI and In-Range results
 
 ### Checkmate GUI Overview
-<img src="https://user-images.githubusercontent.com/53019596/114159112-bb4a9900-9925-11eb-99a3-5a2af4917abe.png" width="300">
+<img src="https://user-images.githubusercontent.com/53019596/115009043-22c79200-9eac-11eb-93ce-64f02fd6bf19.png" width="300">
 
 ### Checkmate Code Repository
 The Checkmate source code can be reviewed and compiled from:
