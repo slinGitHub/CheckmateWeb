@@ -6,7 +6,7 @@ Checkmate was written to give you a fast overview of your current diabetic treat
 This project is published as open source.
 
 ### Download APK
-Download the latest Checkmate version here: 
+Download the latest Checkmate version here:      
 [CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/CheckmateV01/CheckmateV01.apk)
 
 ### Checkmate Features
