@@ -33,7 +33,6 @@ This programm is not replacing any functionality of XDrip which can be downloade
 
 ### Download APK
 Download the latest Checkmate version here: 
-
 [20210409_CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/CheckmateV0.1/CheckmateV01.apk)
 
 ### Acknowledgement
@@ -50,5 +49,4 @@ Checkmate was not written for commercial purposes and is published as open sourc
 Therefore I will not take any responsibility for using this app.
 
 Copyright by N.B., April 2021
-
-slincheckmate@gmail.com
+(slincheckmate(at)gmail.com)
