@@ -50,3 +50,5 @@ Checkmate was not written for commercial purposes and is published as open sourc
 Therefore I will not take any responsibility for using this app.
 
 Copyright by N.B., April 2021
+
+(slincheckmate (at) gmail.com)
