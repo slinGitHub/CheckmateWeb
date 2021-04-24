@@ -51,4 +51,4 @@ Therefore I will not take any responsibility for using this app.
 
 Copyright by N.B., April 2021
 
-(slincheckmate (at) gmail.com)
+slincheckmate@gmail.com
