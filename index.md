@@ -34,7 +34,7 @@ This programm is not replacing any functionality of XDrip which can be downloade
 ### Download APK
 Download the latest Checkmate version here: 
 
-[20210409_CheckmateV01.apk](https://github.com/nilsbusch/Slin/edit/gh-pages/index.md)
+[20210409_CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/CheckmateV0.1/CheckmateV01.apk)
 
 ### Acknowledgement
 I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
