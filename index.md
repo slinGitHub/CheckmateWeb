@@ -2,8 +2,7 @@
 
 
 ## Welcome to the Checkmate Homepage
-Checkmate was written to give you a fast overview of your current diabetic treatment status (Based on your Nightscout cloud data).
-
+Checkmate was written to give you a fast overview of your current diabetic treatment status (Based on your Nightscout cloud data). 
 This project is published as open source.
 
 ### Download APK
