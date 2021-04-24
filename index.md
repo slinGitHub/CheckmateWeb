@@ -26,7 +26,8 @@ The Checkmate source code can be reviewed and compiled from:
 
 ### Checkmate Documentation
 - HBA1C Calculation  
-  hba1c = ((SumOfAllGlucoseValues/NumberOfGlucoseValues) + 46.7) / 28.7;
+  hba1c = ((SumOfAllGlucoseValues/NumberOfGlucoseValues) + 46.7) / 28.7  
+  90 days
 
 (More will be added soon, please come back later..)
 
