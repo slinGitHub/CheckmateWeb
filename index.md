@@ -24,6 +24,12 @@ Download the latest Checkmate version here:
 The Checkmate source code can be reviewed and compiled from:  
 [Link to Checkmate Source]()
 
+### Checkmate Documentation
+- HBA1C Calculation
+  hba1c = ((SumOfAllGlucoseValues/NumberOfGlucoseValues) + 46.7) / 28.7;
+
+(More will be added soon, please come back later..)
+
 ### Used Data Sources
 
 **[Nightscout Project](http://www.nightscout.info)**  
