@@ -6,6 +6,10 @@ Checkmate was written to give you a fast overview of your current diabetic treat
 
 This project is published as open source.
 
+### Download APK
+Download the latest Checkmate version here: 
+[20210409_CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/CheckmateV0.1/CheckmateV01.apk)
+
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
 - Visualize your daily "in Range" in percent (In range borders are configurable)
@@ -18,8 +22,7 @@ This project is published as open source.
 <img src="https://user-images.githubusercontent.com/53019596/115009043-22c79200-9eac-11eb-93ce-64f02fd6bf19.png" width="300">
 
 ### Checkmate Code Repository
-The Checkmate source code can be reviewed and compiled from:
-
+The Checkmate source code can be reviewed and compiled from:  
 [Link to Checkmate Source]()
 
 ### Used Data Sources
@@ -30,10 +33,6 @@ Checkmate is using the Nightscout glucose data API to receive your raw glucose d
 **[XDrip+](https://jamorham.github.io)**  
 XDrip (with for example the Dexcom G6) can be used to upload glucose data from the smartphone to the nightscout cloud.
 This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
-
-### Download APK
-Download the latest Checkmate version here: 
-[20210409_CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/CheckmateV0.1/CheckmateV01.apk)
 
 ### Acknowledgement
 I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
