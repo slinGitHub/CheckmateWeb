@@ -12,8 +12,8 @@ Download the latest Checkmate version here:
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
 - Visualize your daily "in Range" in percent (In range borders are configurable)
-- Visualize the estimated HbA1c level over a 30 day period
-- Visualize the "in Range" over a 30 day period
+- Visualize the estimated HbA1c level over a 90 day period
+- Visualize the "in Range" over a 90 day period
 - Visualize the glucose profile over a day for an easy understanding of the GMI and In-Range values
 - A notification informs you every day about your GMI and In-Range results
 
@@ -25,10 +25,7 @@ The Checkmate source code can be reviewed and compiled from:
 [Link to Checkmate Source](https://github.com/slinGitHub/Checkmate/tree/dev)
 
 ### Checkmate Documentation
-- HBA1C Calculation  
-  hba1c = ((SumOfAllGlucoseValues/NumberOfGlucoseValues) + 46.7) / 28.7  
-
-(More will be added soon, please come back later..)
+[Go to documentation page..](documentation.md)
 
 ### Used Data Sources
 
