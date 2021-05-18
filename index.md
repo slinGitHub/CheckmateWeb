@@ -22,7 +22,7 @@ Download the latest Checkmate version here:
 
 ### Checkmate Code Repository
 The Checkmate source code can be reviewed and compiled from:  
-[Link to Checkmate Source]()
+[Link to Checkmate Source](https://github.com/slinGitHub/Checkmate/tree/dev)
 
 ### Checkmate Documentation
 - HBA1C Calculation  
