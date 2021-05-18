@@ -1,5 +1,5 @@
 ### 1. Nightscout can not be accessed 
-Check if the app is allowed to read from your Nightscout Website.
+Check if the app is allowed to read from your Nightscout Website.  
 Enter in your browser:  
 YOUR_NIGHTSCOUT_ADRESS + /api/v1/entries/sgv.csv?count=10000&find[dateString][$gte]=2015-08-28
 
