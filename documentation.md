@@ -17,5 +17,5 @@ Checkmate is using a simple program flow which is always re-run when the app is 
 
 hba1c = ((SumOfAllGlucoseValues/NumberOfGlucoseValues) + 46.7) / 28.7  
 
-[Source: https://pubmed.ncbi.nlm.nih.gov/18540046/](https://pubmed.ncbi.nlm.nih.gov/18540046/)
+Source: [https://pubmed.ncbi.nlm.nih.gov/18540046/](https://pubmed.ncbi.nlm.nih.gov/18540046/)
 
