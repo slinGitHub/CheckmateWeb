@@ -24,7 +24,9 @@ Download the latest Checkmate version here:
 The Checkmate source code can be reviewed and compiled from:  
 [Link to Checkmate Source](https://github.com/slinGitHub/Checkmate/tree/dev)
 
-### [Checkmate Documentation](documentation.md)
+### Checkmate Documentation
+
+Visit the [Checkmate documentation webpage.](documentation.md)
 
 ### Used Data Sources
 
