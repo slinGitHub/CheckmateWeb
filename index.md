@@ -26,7 +26,7 @@ The Checkmate source code can be reviewed and compiled from:
 
 ### Checkmate Documentation
 
-Visit the [Checkmate documentation webpage.](documentation.md)
+Visit the [Checkmate documentation](documentation.md) webpage.
 
 ### Used Data Sources
 
@@ -47,7 +47,7 @@ I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for
 [Donate 5 $](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
 
 ### FAQ
-[Go to the FAQ page..](faq.md)
+Visit the [FAQ](faq.md) page.
 
 ### Disclaimer
 Checkmate was not written for commercial purposes and is published as open source.
