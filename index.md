@@ -45,6 +45,9 @@ I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for
 **Paypal**  
 [Donate 5 $](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
 
+### FAQ
+[Go to the FAQ page..](faq.md)
+
 ### Disclaimer
 Checkmate was not written for commercial purposes and is published as open source.
 Therefore I will not take any responsibility for using this app.
