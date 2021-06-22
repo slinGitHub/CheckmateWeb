@@ -21,6 +21,10 @@ Download the latest Checkmate version here:
 - A notification informs you every day about your GMI and In-Range results
 
 ### Checkmate GUI Overview
+- Glucose management indicator and in range (scrollable through all data available)
+- Estimated HbA1c
+- Glucose Mean Chart for 7/15/30/90 Days (press on white button)
+
 <img src="https://user-images.githubusercontent.com/53019596/122987256-ae740800-d3a0-11eb-8ff1-1be8cea0dcb2.png" width="300">
 <img src="https://user-images.githubusercontent.com/53019596/122987398-d7949880-d3a0-11eb-9047-2508bec74c77.png" width="300">
 
