@@ -22,6 +22,7 @@ Download the latest Checkmate version here:
 
 ### Checkmate GUI Overview
 <img src="https://user-images.githubusercontent.com/53019596/122987256-ae740800-d3a0-11eb-8ff1-1be8cea0dcb2.png" width="300">
+<img src="https://user-images.githubusercontent.com/53019596/122987398-d7949880-d3a0-11eb-9047-2508bec74c77.png" width="300">
 
 ### Checkmate Code Repository
 The Checkmate source code can be reviewed and compiled from:  
