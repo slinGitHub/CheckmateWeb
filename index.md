@@ -21,7 +21,7 @@ Download the latest Checkmate version here:
 - A notification informs you every day about your GMI and In-Range results
 
 ### Checkmate GUI Overview
-<img src="https://user-images.githubusercontent.com/53019596/122986386-ad8ea680-d39f-11eb-9daf-6f3944b8aa3a.png" width="300">
+<img src="https://user-images.githubusercontent.com/53019596/122987256-ae740800-d3a0-11eb-8ff1-1be8cea0dcb2.png" width="300">
 
 ### Checkmate Code Repository
 The Checkmate source code can be reviewed and compiled from:  
