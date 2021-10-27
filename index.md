@@ -39,20 +39,20 @@ Visit the [Checkmate documentation](documentation.md) webpage.
 ### Used Data Sources
 
 **[Nightscout Project](http://www.nightscout.info)**  
-Checkmate is using the Nightscout glucose data API to receive your raw glucose data and calculate and visualize the up- and downs of your current diabetic treatment status. Therefore a nightscout database is mandatory to run Checkmate. Follow the guide here to set-up a nightscout database [https://nightscout.github.io/](https://nightscout.github.io/).
+Checkmate is using the Nightscout glucose data API to receive your raw glucose data and calculate and visualize the up- and downs of your current diabetic treatment status. Therefore a Nightscout database is mandatory to run Checkmate. Follow the guide here to set-up a Nightscout database [https://nightscout.github.io/](https://nightscout.github.io/).
 
-**[XDrip+](https://jamorham.github.io)**  
-XDrip (with for example the Dexcom G6) can be used to upload glucose data from the smartphone to the nightscout cloud.
-This programm is not replacing any functionality of XDrip which can be downloaded at [Jamorhams Page](https://jamorham.github.io).
+**[xDrip+](https://jamorham.github.io)**  
+XDrip (with for example the Dexcom G6) can be used to upload glucose data from the smartphone to the Nightscout cloud.
+This program is not replacing any functionality of XDrip+ which can be downloaded at [Jamorham's Page](https://jamorham.github.io).
 
 ### Acknowledgement
-I want to thank the nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
+I want to thank the Nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
 
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
 
 **Paypal**  
-[Donate 5 $](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
+[Donate $5](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
 
 ### FAQ
 Visit the [FAQ](faq.md) page.
