@@ -7,11 +7,11 @@ This project is published as open source.
 
 ### Download APK
 Download the latest Checkmate version here:      
-[CheckmateV03.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV03.apk)
+[CheckmateV03.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV03.apk) 
 
-(Old Releases)
-[CheckmateV02.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV02.apk)
-[CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV01.apk)
+(Old Releases) 
+[CheckmateV02.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV02.apk) 
+[CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV01.apk) 
 
 ### Checkmate Features
 - Visualize the daily GMI (Glucose Management Indicator) or average blood sugar level
