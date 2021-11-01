@@ -9,6 +9,9 @@ This project is published as open source.
 Download the latest Checkmate version here:      
 [CheckmateV03.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV03.apk) 
 
+See Change-Log here: 
+[Checkmate Change-Log](changeLog.md)
+
 (Old Releases)          
 [CheckmateV02.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV02.apk)             
 [CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV01.apk) 
