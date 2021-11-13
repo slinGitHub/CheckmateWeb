@@ -1,5 +1,8 @@
 ## Checkmate Change-Log
 
+###V031
+- Bug fix : Daily notification with token access to nightscout not working
+
 ###V03
 - Access with Nightscout token possible
 - Screen size can be adapted
