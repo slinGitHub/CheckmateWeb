@@ -13,7 +13,7 @@ See Change-Log here:
 [Checkmate Change-Log](changeLog.md)
 
 (Old Releases)    
-[CheckmateV031.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV031.apk) 
+[CheckmateV031.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV031.apk)
 [CheckmateV03.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV03.apk)            
 [CheckmateV02.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV02.apk)             
 [CheckmateV01.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV01.apk) 
