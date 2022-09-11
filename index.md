@@ -68,5 +68,5 @@ Visit the [FAQ](faq.md) page.
 Checkmate was not written for commercial purposes and is published as open source.
 Therefore I will not take any responsibility for using this app.
 
-Copyright by N.B., April 2021  
+Copyright by N.B. & A.S., Sept 2022 
 (slincheckmate(at)gmail.com)
