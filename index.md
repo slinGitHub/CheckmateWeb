@@ -53,7 +53,7 @@ XDrip (with for example the Dexcom G6) can be used to upload glucose data from t
 This program is not replacing any functionality of XDrip+ which can be downloaded at [Jamorham's Page](https://jamorham.github.io).
 
 ### Acknowledgement
-I want to thank the Nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
+I want to thank A.S. for his great contributions and improvements of the features and checkmate code. The Nightscout project, Jamorham, and PhilJay from MPAndroid for making this project possible and for improving my life as a diabetic to a degree which would be not possible with the commercialy available software.
 
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
@@ -68,5 +68,5 @@ Visit the [FAQ](faq.md) page.
 Checkmate was not written for commercial purposes and is published as open source.
 Therefore I will not take any responsibility for using this app.
 
-Copyright by N.B. & A.S., Sept 2022 
+Copyright by N.B., Sept 2022 
 (slincheckmate(at)gmail.com)
