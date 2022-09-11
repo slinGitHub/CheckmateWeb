@@ -1,5 +1,14 @@
 ## Checkmate Change-Log
 
+###V033
+- Bug fix : Daily chart line is now rendered 
+- Feature: Load data only once at start up (instead twice)  
+    - Only retrieve latest data
+    - Load data incremental; combine stored file and new data
+    - Do not load data when already loading or latest data is less than 5 minutes old
+    - Feature: Add a menu clear data
+- Bug fix: Remove the last incomplete day
+
 ###V031
 - Bug fix : Daily notification with token access to nightscout not working
 
