@@ -1,5 +1,8 @@
 ## Checkmate Change-Log
 
+###V034
+- Remove greyed out lines
+
 ###V033
 - Bug fix : Daily chart line is now rendered 
 - Feature: Load data only once at start up (instead twice)  
