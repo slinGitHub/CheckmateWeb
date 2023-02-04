@@ -12,7 +12,8 @@ Download the latest Checkmate version here:
 See Change-Log here: 
 [Checkmate Change-Log](changeLog.md)
 
-(Old Releases)    
+(Old Releases) 
+[CheckmateV034.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV034.apk)  
 [CheckmateV032.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV032.apk)             
 [CheckmateV031.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV031.apk)               
 [CheckmateV03.apk](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV03.apk)            
