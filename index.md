@@ -61,7 +61,7 @@ I want to thank A.S. for his great contributions and improvements of the feature
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
 
 **Paypal**  
-[Donate $5](https://www.paypal.com/donate?hosted_button_id=CF3AHXTKNARRL): Thank's for working on this project, here's a coffee for you!
+[Donate $5](https://https://www.paypal.com/donate/?hosted_button_id=2XER5K98FAKMY): Thank's for working on this project, here's a coffee for you!
 
 ### FAQ
 Visit the [FAQ](faq.md) page.
