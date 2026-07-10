@@ -29,6 +29,7 @@ See Change-Log here:
 - Visualize the "in Range" over a 90 day period
 - Visualize the glucose profile over a day for an easy understanding of the GMI and In-Range values
 - A notification informs you every day about your GMI and In-Range results
+- NEW: Export your daily Hba1c and in Range to .csv and visualize your data over the last years in excel charts
 
 ### Checkmate GUI Overview
 - Glucose management indicator and in range (scrollable through all data available)
